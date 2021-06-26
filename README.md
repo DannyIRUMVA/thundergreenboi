@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irumvadanny
+- 👋 Hi, I’m Irumva danny
 - 👀 I’m interested in php web application develping 
 - 🌱 I’m currently learning .laravel php framework
 - 💞️ I’m looking to collaborate on ...
